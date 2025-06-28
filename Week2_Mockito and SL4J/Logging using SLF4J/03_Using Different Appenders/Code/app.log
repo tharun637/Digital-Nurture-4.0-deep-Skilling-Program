@@ -1,0 +1,8 @@
+23:03:19.518 [main] DEBUG Main - Debug message: Application started
+23:03:19.520 [main] INFO  Main - Info message: Running main method
+23:03:19.521 [main] WARN  Main - Warning message: This is a warning
+23:03:19.521 [main] ERROR Main - Error message: Something went wrong
+23:06:57.064 [main] DEBUG Main - Debug message: Application started
+23:06:57.066 [main] INFO  Main - Info message: Running main method
+23:06:57.066 [main] WARN  Main - Warning message: This is a warning
+23:06:57.066 [main] ERROR Main - Error message: Something went wrong
